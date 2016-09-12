@@ -1,6 +1,4 @@
-kAnonymous @ README.md
+GameHub @ Leírás
 
-Az itt megtalálható fájlok, illetve "dizájnok" a Kecskeméti Anonymous Csoport tulajdonában áll.
-Ha még is el lopná egy illető, akkor fel jelenthetjük, vagy elintézzük magunk. 
-
-~ Köszönjük!
+Az egész egy közösségi oldal, de Gamereknek. Az alapelv egy "facebook" másolat, más dizájnal, és illetve ez az oldal cak is
+Gamereknek készül.
